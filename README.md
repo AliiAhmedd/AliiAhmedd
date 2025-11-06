@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Ali Ahmed, I'm a year 2 Lancaster University student studying Software Engineering I am very ambitious about the topics Machine and Deep Learning
+- 👋 Hey there, I’m Ali Ahmed, a third year Software Engineering student who is very ambitious about the topics Machine and Deep Learning
 - 👀 I’m a Software Engineering and Machine Learning enthusiast
 - 🌱 I’m currently learning Deep Learning and developing AI automation services
 - 📫 You can contact me via my personal email: ali.ahmed.isc@gmail.com
